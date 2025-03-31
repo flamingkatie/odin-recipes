@@ -8,7 +8,7 @@ I had a lot of fun creating this website, and it made me even more confident in 
 
 -
 
-All three recipes are written in my own words with a bit of ~whimsy~ added, but the meat (heh, pun) of the recipes comes from the following websites:
+All three recipes are written in my own words with a bit of *whimsy* added, but the meat (heh, pun) of the recipes comes from the following websites:
 
 https://chiquehomeliving.com/easy-creamy-cajun-chicken-pasta/
 
